@@ -1,0 +1,4 @@
+# SoC patch paths for xnu-12377, one per line in application order.
+# Copied from UniXNU-sm8550-common a9f45dc (BSD-2-Clause-Patent); the PMGR hook is compiled out unless XNU_SHENG_PMGR is set.
+sheng-platform-power.patch
+native-smp-secondary.patch

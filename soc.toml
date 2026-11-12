@@ -1,0 +1,10 @@
+"schema_version" = 2
+
+["soc"]
+"name" = "sm7475"
+"description" = "Qualcomm SM7475 (Snapdragon 7+ Gen 2, Adreno 725)"
+"source_repository" = "https://github.com/chibishizuku/Mu-Silicium-marble"
+"source_revision" = "fc9e410"
+
+["components"]
+"include" = ["ArmCpu", "ArmDTPlatform"]
